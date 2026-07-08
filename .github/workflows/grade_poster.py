@@ -20,7 +20,7 @@ GITHUB_TO_EMAIL_MAP = {
     "mahasiswa4": "ican88030@gmail.com",
     "mahasiswa5": "icann1400@gmail.com",
     "ilhamaja10": "nawawiilham879@gmail.com",
-    "sasikiranarzky: "kiranasasi8490@gmail.com,
+    "sasikiranarzky": "kiranasasi8490@gmail.com,"
 }
 
 # ==============================================================================
